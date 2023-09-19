@@ -1,4 +1,4 @@
-IPValidate checks the validity of an IP address
+IPValidator checks the validity of an IP address
 
 # Usage
 
